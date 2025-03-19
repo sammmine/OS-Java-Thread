@@ -17,4 +17,5 @@
 5. In the main program, run the two threads
 
 ### Example Output:
-![Example Output](https://raw.githubusercontent.com/sammmine/OS-Java-Thread/main/example_output.png)
+![Example Output](https://github.com/sammmine/OS-Java-Thread/blob/43ad87f5f9264b795fdaf15ca414c7b4c071e535/example_output.png)
+
